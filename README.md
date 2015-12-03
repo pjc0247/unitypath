@@ -12,6 +12,8 @@ gem install unitypath
 Usage
 ----
 ```rb
+require 'unitypath'
+
 puts unitypath # "C:\\Program Files (x86)\\Unity\\Editor\\Unity.exe"
 ```
 
