@@ -1,7 +1,7 @@
 unitypath
 ====
 
-플랫폼별로 알맞은 유니티 경로를 분기해서 찾아주는 gemmmmggem
+플랫폼별로 분기해서 알맞은 유니티 경로를 찾아주는 gemmmmggem
 
 Install
 ----
